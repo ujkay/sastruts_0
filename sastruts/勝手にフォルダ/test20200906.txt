@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+test
+=======
+test2
+>>>>>>> branch 'master' of https://github.com/ujkay/sastruts_0.git
